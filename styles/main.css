@@ -139,9 +139,9 @@ section {
 }
 
 .slip {
-    font-size: 1em;
+    font-size: .8em;
     font-weight: bold;
-    line-height: 1.5em;
+    line-height: 1.25em;
     background-color: white;
     padding: .5em;
 }
@@ -176,7 +176,7 @@ aside {
     grid-area: side;
 }
 aside h2 {
-	font-size: 1.25em;
+	font-size: 1em;
 	padding-bottom: .5em;
 }
 aside h3 {
